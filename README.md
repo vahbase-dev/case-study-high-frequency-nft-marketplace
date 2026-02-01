@@ -1,6 +1,6 @@
 # High-Frequency NFT Marketplace — Case Study (Docs-only)
 
-![Cover](./cover.webp)
+![Cover](./cover.png)
 
 ## Overview
 A high-throughput NFT marketplace architecture focused on deterministic execution, atomic integrity across off-chain and on-chain state, and sub-second trade finality under peak load.
