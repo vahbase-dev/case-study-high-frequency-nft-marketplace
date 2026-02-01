@@ -23,11 +23,13 @@ A high-throughput NFT marketplace architecture focused on deterministic executio
 - **Consistency model:** Optimistic writes + authoritative chain events + idempotent replay
 
 ## Docs
-- `docs/01-architecture-overview.md`
-- `docs/02-data-model-and-ledger-sync.md`
-- `docs/03-event-indexing-and-reconciliation.md`
-- `docs/04-performance-and-observability.md`
-- `docs/05-security-and-failure-modes.md`
+- [00 — Index](./docs/00-index.md)
+- [01 — Architecture Overview](./docs/01-architecture-overview.md)
+- [02 — Data Model and Ledger Synchronisation](./docs/02-data-model-and-ledger-sync.md)
+- [03 — Event Indexing and Reconciliation](./docs/03-event-indexing-and-reconciliation.md)
+- [04 — Performance and Observability](./docs/04-performance-and-observability.md)
+- [05 — Security and Failure Modes](./docs/05-security-and-failure-modes.md)
+
 
 ## Notes
 This repository is documentation-only and contains no proprietary source code.
